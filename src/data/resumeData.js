@@ -196,7 +196,7 @@ export const educationData = [
     degree: "Bachelor of Engineering (B.E.) in Computer Engineering",
     institution: "Hasmukh Goswami College of Engineering",
     university: "Gujarat Technological University (GTU)",
-    period: "2021 -- 2024",
+    period: "2020 -- 2024",
     highlights: [
       "Graduated with Bachelor of Engineering in Computer Engineering.",
       "Comprehensive coursework in Web Technologies, Software Concepts, and Database Systems."
