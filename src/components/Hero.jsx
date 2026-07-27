@@ -1,7 +1,7 @@
 import React from 'react';
 import { Mail, ArrowDown, MapPin, Briefcase, Download, Copy, CheckCircle2, Globe, Code2 } from 'lucide-react';
 import LinkedinIcon from './LinkedinIcon';
-import { personalInfo } from '../data/resumeData';
+import { personalInfo } from '../../public/Bhavik_Hadiyal_Resume.pdf';
 
 const Hero = ({ onShowToast }) => {
   const handleCopyEmail = () => {
