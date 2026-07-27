@@ -104,7 +104,7 @@ const Hero = ({ onShowToast }) => {
                 <ArrowDown size={16} />
               </a>
 
-              <button onClick={handleDownloadResume} className="btn btn-outline" title="Print/Save Resume">
+              <button onClick={handleDownloadResume} className="btn btn-outline" title="/public/Bhavik_Hadiyal_Resume.pdf">
                 <Download size={16} />
                 <span>Resume</span>
               </button>
